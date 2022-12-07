@@ -1,0 +1,361 @@
+tahun,kabupaten/kota,bulan,jenis_registrasi,jumlah
+2020,Kepulauan Seribu,01,Kelahiran,25
+2020,Kepulauan Seribu,02,Kelahiran,31
+2020,Kepulauan Seribu,03,Kelahiran,28
+2020,Kepulauan Seribu,04,Kelahiran,39
+2020,Kepulauan Seribu,05,Kelahiran,40
+2020,Kepulauan Seribu,06,Kelahiran,56
+2020,Kepulauan Seribu,07,Kelahiran,65
+2020,Kepulauan Seribu,08,Kelahiran,48
+2020,Kepulauan Seribu,09,Kelahiran,54
+2020,Kepulauan Seribu,10,Kelahiran,53
+2020,Kepulauan Seribu,11,Kelahiran,50
+2020,Kepulauan Seribu,12,Kelahiran,46
+2020,Jakarta Selatan,01,Kelahiran,1065
+2020,Jakarta Selatan,02,Kelahiran,1518
+2020,Jakarta Selatan,03,Kelahiran,1496
+2020,Jakarta Selatan,04,Kelahiran,1161
+2020,Jakarta Selatan,05,Kelahiran,1867
+2020,Jakarta Selatan,06,Kelahiran,3219
+2020,Jakarta Selatan,07,Kelahiran,3270
+2020,Jakarta Selatan,08,Kelahiran,2553
+2020,Jakarta Selatan,09,Kelahiran,2861
+2020,Jakarta Selatan,10,Kelahiran,2570
+2020,Jakarta Selatan,11,Kelahiran,3166
+2020,Jakarta Selatan,12,Kelahiran,2885
+2020,Jakarta Timur,01,Kelahiran,1622
+2020,Jakarta Timur,02,Kelahiran,2106
+2020,Jakarta Timur,03,Kelahiran,2015
+2020,Jakarta Timur,04,Kelahiran,1311
+2020,Jakarta Timur,05,Kelahiran,2409
+2020,Jakarta Timur,06,Kelahiran,5428
+2020,Jakarta Timur,07,Kelahiran,5086
+2020,Jakarta Timur,08,Kelahiran,3767
+2020,Jakarta Timur,09,Kelahiran,4599
+2020,Jakarta Timur,10,Kelahiran,3955
+2020,Jakarta Timur,11,Kelahiran,4351
+2020,Jakarta Timur,12,Kelahiran,5035
+2020,Jakarta Pusat,01,Kelahiran,607
+2020,Jakarta Pusat,02,Kelahiran,726
+2020,Jakarta Pusat,03,Kelahiran,669
+2020,Jakarta Pusat,04,Kelahiran,543
+2020,Jakarta Pusat,05,Kelahiran,837
+2020,Jakarta Pusat,06,Kelahiran,1613
+2020,Jakarta Pusat,07,Kelahiran,1468
+2020,Jakarta Pusat,08,Kelahiran,1152
+2020,Jakarta Pusat,09,Kelahiran,1380
+2020,Jakarta Pusat,10,Kelahiran,1176
+2020,Jakarta Pusat,11,Kelahiran,1325
+2020,Jakarta Pusat,12,Kelahiran,1355
+2020,Jakarta Barat,01,Kelahiran,1214
+2020,Jakarta Barat,02,Kelahiran,1709
+2020,Jakarta Barat,03,Kelahiran,1546
+2020,Jakarta Barat,04,Kelahiran,742
+2020,Jakarta Barat,05,Kelahiran,1587
+2020,Jakarta Barat,06,Kelahiran,4136
+2020,Jakarta Barat,07,Kelahiran,4026
+2020,Jakarta Barat,08,Kelahiran,2921
+2020,Jakarta Barat,09,Kelahiran,3210
+2020,Jakarta Barat,10,Kelahiran,2718
+2020,Jakarta Barat,11,Kelahiran,3330
+2020,Jakarta Barat,12,Kelahiran,3394
+2020,Jakarta Utara,01,Kelahiran,1073
+2020,Jakarta Utara,02,Kelahiran,1311
+2020,Jakarta Utara,03,Kelahiran,1272
+2020,Jakarta Utara,04,Kelahiran,757
+2020,Jakarta Utara,05,Kelahiran,1441
+2020,Jakarta Utara,06,Kelahiran,3401
+2020,Jakarta Utara,07,Kelahiran,2997
+2020,Jakarta Utara,08,Kelahiran,2169
+2020,Jakarta Utara,09,Kelahiran,2335
+2020,Jakarta Utara,10,Kelahiran,2225
+2020,Jakarta Utara,11,Kelahiran,2520
+2020,Jakarta Utara,12,Kelahiran,2426
+2020,Kepulauan Seribu,01,Kematian,18
+2020,Kepulauan Seribu,02,Kematian,31
+2020,Kepulauan Seribu,03,Kematian,12
+2020,Kepulauan Seribu,04,Kematian,8
+2020,Kepulauan Seribu,05,Kematian,4
+2020,Kepulauan Seribu,06,Kematian,23
+2020,Kepulauan Seribu,07,Kematian,46
+2020,Kepulauan Seribu,08,Kematian,24
+2020,Kepulauan Seribu,09,Kematian,14
+2020,Kepulauan Seribu,10,Kematian,16
+2020,Kepulauan Seribu,11,Kematian,21
+2020,Kepulauan Seribu,12,Kematian,42
+2020,Jakarta Selatan,01,Kematian,1234
+2020,Jakarta Selatan,02,Kematian,1188
+2020,Jakarta Selatan,03,Kematian,779
+2020,Jakarta Selatan,04,Kematian,464
+2020,Jakarta Selatan,05,Kematian,766
+2020,Jakarta Selatan,06,Kematian,1593
+2020,Jakarta Selatan,07,Kematian,1611
+2020,Jakarta Selatan,08,Kematian,1269
+2020,Jakarta Selatan,09,Kematian,1319
+2020,Jakarta Selatan,10,Kematian,1456
+2020,Jakarta Selatan,11,Kematian,1853
+2020,Jakarta Selatan,12,Kematian,1490
+2020,Jakarta Timur,01,Kematian,1907
+2020,Jakarta Timur,02,Kematian,1691
+2020,Jakarta Timur,03,Kematian,1067
+2020,Jakarta Timur,04,Kematian,695
+2020,Jakarta Timur,05,Kematian,1272
+2020,Jakarta Timur,06,Kematian,2533
+2020,Jakarta Timur,07,Kematian,2179
+2020,Jakarta Timur,08,Kematian,1902
+2020,Jakarta Timur,09,Kematian,2076
+2020,Jakarta Timur,10,Kematian,1895
+2020,Jakarta Timur,11,Kematian,2366
+2020,Jakarta Timur,12,Kematian,2094
+2020,Jakarta Pusat,01,Kematian,734
+2020,Jakarta Pusat,02,Kematian,706
+2020,Jakarta Pusat,03,Kematian,486
+2020,Jakarta Pusat,04,Kematian,239
+2020,Jakarta Pusat,05,Kematian,458
+2020,Jakarta Pusat,06,Kematian,1130
+2020,Jakarta Pusat,07,Kematian,1065
+2020,Jakarta Pusat,08,Kematian,996
+2020,Jakarta Pusat,09,Kematian,897
+2020,Jakarta Pusat,10,Kematian,806
+2020,Jakarta Pusat,11,Kematian,1050
+2020,Jakarta Pusat,12,Kematian,1020
+2020,Jakarta Barat,01,Kematian,1305
+2020,Jakarta Barat,02,Kematian,1196
+2020,Jakarta Barat,03,Kematian,780
+2020,Jakarta Barat,04,Kematian,424
+2020,Jakarta Barat,05,Kematian,700
+2020,Jakarta Barat,06,Kematian,1835
+2020,Jakarta Barat,07,Kematian,1577
+2020,Jakarta Barat,08,Kematian,1344
+2020,Jakarta Barat,09,Kematian,1582
+2020,Jakarta Barat,10,Kematian,1316
+2020,Jakarta Barat,11,Kematian,1872
+2020,Jakarta Barat,12,Kematian,1650
+2020,Jakarta Utara,01,Kematian,1064
+2020,Jakarta Utara,02,Kematian,980
+2020,Jakarta Utara,03,Kematian,609
+2020,Jakarta Utara,04,Kematian,320
+2020,Jakarta Utara,05,Kematian,612
+2020,Jakarta Utara,06,Kematian,1382
+2020,Jakarta Utara,07,Kematian,1376
+2020,Jakarta Utara,08,Kematian,1122
+2020,Jakarta Utara,09,Kematian,1109
+2020,Jakarta Utara,10,Kematian,981
+2020,Jakarta Utara,11,Kematian,1406
+2020,Jakarta Utara,12,Kematian,1223
+2020,Kepulauan Seribu,01,Perkawinan,
+2020,Kepulauan Seribu,02,Perkawinan,
+2020,Kepulauan Seribu,03,Perkawinan,
+2020,Kepulauan Seribu,04,Perkawinan,
+2020,Kepulauan Seribu,05,Perkawinan,
+2020,Kepulauan Seribu,06,Perkawinan,
+2020,Kepulauan Seribu,07,Perkawinan,
+2020,Kepulauan Seribu,08,Perkawinan,
+2020,Kepulauan Seribu,09,Perkawinan,
+2020,Kepulauan Seribu,10,Perkawinan,
+2020,Kepulauan Seribu,11,Perkawinan,
+2020,Kepulauan Seribu,12,Perkawinan,
+2020,Jakarta Selatan,01,Perkawinan,74
+2020,Jakarta Selatan,02,Perkawinan,97
+2020,Jakarta Selatan,03,Perkawinan,56
+2020,Jakarta Selatan,04,Perkawinan,23
+2020,Jakarta Selatan,05,Perkawinan,7
+2020,Jakarta Selatan,06,Perkawinan,18
+2020,Jakarta Selatan,07,Perkawinan,52
+2020,Jakarta Selatan,08,Perkawinan,41
+2020,Jakarta Selatan,09,Perkawinan,48
+2020,Jakarta Selatan,10,Perkawinan,64
+2020,Jakarta Selatan,11,Perkawinan,84
+2020,Jakarta Selatan,12,Perkawinan,86
+2020,Jakarta Timur,01,Perkawinan,218
+2020,Jakarta Timur,02,Perkawinan,175
+2020,Jakarta Timur,03,Perkawinan,119
+2020,Jakarta Timur,04,Perkawinan,41
+2020,Jakarta Timur,05,Perkawinan,41
+2020,Jakarta Timur,06,Perkawinan,72
+2020,Jakarta Timur,07,Perkawinan,155
+2020,Jakarta Timur,08,Perkawinan,163
+2020,Jakarta Timur,09,Perkawinan,164
+2020,Jakarta Timur,10,Perkawinan,124
+2020,Jakarta Timur,11,Perkawinan,236
+2020,Jakarta Timur,12,Perkawinan,270
+2020,Jakarta Pusat,01,Perkawinan,137
+2020,Jakarta Pusat,02,Perkawinan,89
+2020,Jakarta Pusat,03,Perkawinan,75
+2020,Jakarta Pusat,04,Perkawinan,11
+2020,Jakarta Pusat,05,Perkawinan,20
+2020,Jakarta Pusat,06,Perkawinan,32
+2020,Jakarta Pusat,07,Perkawinan,58
+2020,Jakarta Pusat,08,Perkawinan,74
+2020,Jakarta Pusat,09,Perkawinan,84
+2020,Jakarta Pusat,10,Perkawinan,96
+2020,Jakarta Pusat,11,Perkawinan,118
+2020,Jakarta Pusat,12,Perkawinan,126
+2020,Jakarta Barat,01,Perkawinan,281
+2020,Jakarta Barat,02,Perkawinan,339
+2020,Jakarta Barat,03,Perkawinan,150
+2020,Jakarta Barat,04,Perkawinan,115
+2020,Jakarta Barat,05,Perkawinan,52
+2020,Jakarta Barat,06,Perkawinan,180
+2020,Jakarta Barat,07,Perkawinan,156
+2020,Jakarta Barat,08,Perkawinan,200
+2020,Jakarta Barat,09,Perkawinan,164
+2020,Jakarta Barat,10,Perkawinan,409
+2020,Jakarta Barat,11,Perkawinan,544
+2020,Jakarta Barat,12,Perkawinan,536
+2020,Jakarta Utara,01,Perkawinan,223
+2020,Jakarta Utara,02,Perkawinan,190
+2020,Jakarta Utara,03,Perkawinan,176
+2020,Jakarta Utara,04,Perkawinan,47
+2020,Jakarta Utara,05,Perkawinan,38
+2020,Jakarta Utara,06,Perkawinan,96
+2020,Jakarta Utara,07,Perkawinan,144
+2020,Jakarta Utara,08,Perkawinan,129
+2020,Jakarta Utara,09,Perkawinan,134
+2020,Jakarta Utara,10,Perkawinan,185
+2020,Jakarta Utara,11,Perkawinan,341
+2020,Jakarta Utara,12,Perkawinan,249
+2020,Kepulauan Seribu,01,Perceraian,
+2020,Kepulauan Seribu,02,Perceraian,
+2020,Kepulauan Seribu,03,Perceraian,
+2020,Kepulauan Seribu,04,Perceraian,
+2020,Kepulauan Seribu,05,Perceraian,
+2020,Kepulauan Seribu,06,Perceraian,
+2020,Kepulauan Seribu,07,Perceraian,
+2020,Kepulauan Seribu,08,Perceraian,
+2020,Kepulauan Seribu,09,Perceraian,
+2020,Kepulauan Seribu,10,Perceraian,
+2020,Kepulauan Seribu,11,Perceraian,
+2020,Kepulauan Seribu,12,Perceraian,
+2020,Jakarta Selatan,01,Perceraian,25
+2020,Jakarta Selatan,02,Perceraian,21
+2020,Jakarta Selatan,03,Perceraian,8
+2020,Jakarta Selatan,04,Perceraian,6
+2020,Jakarta Selatan,05,Perceraian,17
+2020,Jakarta Selatan,06,Perceraian,36
+2020,Jakarta Selatan,07,Perceraian,16
+2020,Jakarta Selatan,08,Perceraian,13
+2020,Jakarta Selatan,09,Perceraian,12
+2020,Jakarta Selatan,10,Perceraian,11
+2020,Jakarta Selatan,11,Perceraian,15
+2020,Jakarta Selatan,12,Perceraian,9
+2020,Jakarta Timur,01,Perceraian,25
+2020,Jakarta Timur,02,Perceraian,20
+2020,Jakarta Timur,03,Perceraian,12
+2020,Jakarta Timur,04,Perceraian,7
+2020,Jakarta Timur,05,Perceraian,12
+2020,Jakarta Timur,06,Perceraian,46
+2020,Jakarta Timur,07,Perceraian,27
+2020,Jakarta Timur,08,Perceraian,26
+2020,Jakarta Timur,09,Perceraian,27
+2020,Jakarta Timur,10,Perceraian,19
+2020,Jakarta Timur,11,Perceraian,27
+2020,Jakarta Timur,12,Perceraian,26
+2020,Jakarta Pusat,01,Perceraian,19
+2020,Jakarta Pusat,02,Perceraian,10
+2020,Jakarta Pusat,03,Perceraian,6
+2020,Jakarta Pusat,04,Perceraian,5
+2020,Jakarta Pusat,05,Perceraian,10
+2020,Jakarta Pusat,06,Perceraian,32
+2020,Jakarta Pusat,07,Perceraian,13
+2020,Jakarta Pusat,08,Perceraian,22
+2020,Jakarta Pusat,09,Perceraian,15
+2020,Jakarta Pusat,10,Perceraian,8
+2020,Jakarta Pusat,11,Perceraian,20
+2020,Jakarta Pusat,12,Perceraian,10
+2020,Jakarta Barat,01,Perceraian,50
+2020,Jakarta Barat,02,Perceraian,27
+2020,Jakarta Barat,03,Perceraian,35
+2020,Jakarta Barat,04,Perceraian,13
+2020,Jakarta Barat,05,Perceraian,39
+2020,Jakarta Barat,06,Perceraian,118
+2020,Jakarta Barat,07,Perceraian,39
+2020,Jakarta Barat,08,Perceraian,45
+2020,Jakarta Barat,09,Perceraian,38
+2020,Jakarta Barat,10,Perceraian,41
+2020,Jakarta Barat,11,Perceraian,45
+2020,Jakarta Barat,12,Perceraian,48
+2020,Jakarta Utara,01,Perceraian,38
+2020,Jakarta Utara,02,Perceraian,27
+2020,Jakarta Utara,03,Perceraian,21
+2020,Jakarta Utara,04,Perceraian,17
+2020,Jakarta Utara,05,Perceraian,24
+2020,Jakarta Utara,06,Perceraian,86
+2020,Jakarta Utara,07,Perceraian,34
+2020,Jakarta Utara,08,Perceraian,24
+2020,Jakarta Utara,09,Perceraian,22
+2020,Jakarta Utara,10,Perceraian,15
+2020,Jakarta Utara,11,Perceraian,49
+2020,Jakarta Utara,12,Perceraian,30
+2020,Kepulauan Seribu,01,Pengesahan Anak,0
+2020,Kepulauan Seribu,02,Pengesahan Anak,
+2020,Kepulauan Seribu,03,Pengesahan Anak,
+2020,Kepulauan Seribu,04,Pengesahan Anak,
+2020,Kepulauan Seribu,05,Pengesahan Anak,
+2020,Kepulauan Seribu,06,Pengesahan Anak,
+2020,Kepulauan Seribu,07,Pengesahan Anak,
+2020,Kepulauan Seribu,08,Pengesahan Anak,
+2020,Kepulauan Seribu,09,Pengesahan Anak,
+2020,Kepulauan Seribu,10,Pengesahan Anak,
+2020,Kepulauan Seribu,11,Pengesahan Anak,
+2020,Kepulauan Seribu,12,Pengesahan Anak,
+2020,Jakarta Selatan,01,Pengesahan Anak,
+2020,Jakarta Selatan,02,Pengesahan Anak,
+2020,Jakarta Selatan,03,Pengesahan Anak,
+2020,Jakarta Selatan,04,Pengesahan Anak,
+2020,Jakarta Selatan,05,Pengesahan Anak,
+2020,Jakarta Selatan,06,Pengesahan Anak,
+2020,Jakarta Selatan,07,Pengesahan Anak,
+2020,Jakarta Selatan,08,Pengesahan Anak,
+2020,Jakarta Selatan,09,Pengesahan Anak,
+2020,Jakarta Selatan,10,Pengesahan Anak,
+2020,Jakarta Selatan,11,Pengesahan Anak,
+2020,Jakarta Selatan,12,Pengesahan Anak,
+2020,Jakarta Timur,01,Pengesahan Anak,
+2020,Jakarta Timur,02,Pengesahan Anak,
+2020,Jakarta Timur,03,Pengesahan Anak,
+2020,Jakarta Timur,04,Pengesahan Anak,
+2020,Jakarta Timur,05,Pengesahan Anak,
+2020,Jakarta Timur,06,Pengesahan Anak,
+2020,Jakarta Timur,07,Pengesahan Anak,
+2020,Jakarta Timur,08,Pengesahan Anak,
+2020,Jakarta Timur,09,Pengesahan Anak,
+2020,Jakarta Timur,10,Pengesahan Anak,
+2020,Jakarta Timur,11,Pengesahan Anak,
+2020,Jakarta Timur,12,Pengesahan Anak,
+2020,Jakarta Pusat,01,Pengesahan Anak,
+2020,Jakarta Pusat,02,Pengesahan Anak,
+2020,Jakarta Pusat,03,Pengesahan Anak,
+2020,Jakarta Pusat,04,Pengesahan Anak,
+2020,Jakarta Pusat,05,Pengesahan Anak,
+2020,Jakarta Pusat,06,Pengesahan Anak,
+2020,Jakarta Pusat,07,Pengesahan Anak,
+2020,Jakarta Pusat,08,Pengesahan Anak,
+2020,Jakarta Pusat,09,Pengesahan Anak,
+2020,Jakarta Pusat,10,Pengesahan Anak,
+2020,Jakarta Pusat,11,Pengesahan Anak,
+2020,Jakarta Pusat,12,Pengesahan Anak,
+2020,Jakarta Barat,01,Pengesahan Anak,
+2020,Jakarta Barat,02,Pengesahan Anak,
+2020,Jakarta Barat,03,Pengesahan Anak,
+2020,Jakarta Barat,04,Pengesahan Anak,
+2020,Jakarta Barat,05,Pengesahan Anak,
+2020,Jakarta Barat,06,Pengesahan Anak,
+2020,Jakarta Barat,07,Pengesahan Anak,
+2020,Jakarta Barat,08,Pengesahan Anak,
+2020,Jakarta Barat,09,Pengesahan Anak,
+2020,Jakarta Barat,10,Pengesahan Anak,
+2020,Jakarta Barat,11,Pengesahan Anak,
+2020,Jakarta Barat,12,Pengesahan Anak,
+2020,Jakarta Utara,01,Pengesahan Anak,
+2020,Jakarta Utara,02,Pengesahan Anak,
+2020,Jakarta Utara,03,Pengesahan Anak,
+2020,Jakarta Utara,04,Pengesahan Anak,
+2020,Jakarta Utara,05,Pengesahan Anak,
+2020,Jakarta Utara,06,Pengesahan Anak,
+2020,Jakarta Utara,07,Pengesahan Anak,
+2020,Jakarta Utara,08,Pengesahan Anak,
+2020,Jakarta Utara,09,Pengesahan Anak,
+2020,Jakarta Utara,10,Pengesahan Anak,
+2020,Jakarta Utara,11,Pengesahan Anak,
+2020,Jakarta Utara,12,Pengesahan Anak,
